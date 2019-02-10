@@ -4,3 +4,5 @@
 4.  Einen Terminal öffnen (über ALT + STRG + T | über die Suche)
 5.  In das Verzeichnis der .cpp Datei navigieren 
 6.  Die .cpp mithilfe von g++ kompilieren (g++ -o test test.cpp)
+7.  Die neu erstellte Anwendung mit ./test ausführen
+8.  Falls es zu einer Endlosschleife kommen sollte kann man das Programm mit STRG + C stoppen

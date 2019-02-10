@@ -1,0 +1,42 @@
+cat         Verknüpfung von Dateien ("concatenate")
+cd 	        Wechsel des Arbeitsverzeichnisses ("change directory")
+cd ..       Wechselt in das Oberverzeichnis
+cp 	        Kopie von Dateien oder Verzeichnissen ("copy")
+date 	    Anzeige von Datum und Zeit
+echo 	    Anzeige eines Textes
+exit 	    Ende der Sitzung
+info 	    Anzeige einer Hilfe-Datei
+ln 	        Link zu einer Datei oder einem Verzeichnis ("link")
+ls 	        Auflistung von Dateien ("list")
+man 	    Ausgabe der Handbuchseite zu einem Befehl oder einer Anwendung ("manual")
+mkdir 	    Erzeugung von Verzeichnissen ("make directory")
+mmv 	    Multiple move (Datei-Mehrfachoperationen mit Hilfe von Wildcard-Mustern)
+mv 	        Kopieren einer Datei und Löschen der Ursprungsdatei ("move"); mv im aktuellen Verzeichnis ausgeführt: Umbenennung einer Datei
+pwd 	    Anzeige des aktuellen Verzeichnisses ("print working directory")
+rm 	        Löschen von Dateien und Verzeichnisse ("remove")
+rmdir 	    Löschen eines leeren Verzeichnisses ("remove directory")
+sudo 	    Root-Rechte für den Benutzer ("substitute user do")
+touch 	    Änderung der Zugriffs- und Änderungszeitstempel einer Datei oder eines Verzeichnisses (auch: Erstellen von Dateien)
+unlink      Löschen einer Datei 
+less 	    Scrollfähige Anzeige einer Textdatei 
+chmod 	    Veränderung der Zugriffsrechte von Dateien ("change mode")
+chown 	    Festlegung des Besitzers und der Gruppenzugehörigkeit von Dateien ("change ownership") 
+
+----------------------------------------------------------------------------------------------------------
+
+dmesg 	    Kernelmeldungen auf den Bildschirm ausgeben lassen; nützlich bei der Fehlersuche
+at 	        Einstellung von einmalig durchzuführenden zeitgesteuerten Skript-/Befehlsaufrufen
+crontab 	Einstellung von zeitgesteuerten Skript-/Befehlsaufrufen
+df 	        Ausgabe des Speicherplatzes aller eingehängten Laufwerke ("disk free")
+du 	        Ausgabe des Speicherverbrauchs von Verzeichnissen ("disk usage")
+free 	    Ausgabe der Arbeitsspeicherauslastung
+kill 	    Beendigung eines durch die Prozess-ID gekennzeichneten Prozesses
+killall 	Beendigung von nach dem Prozessnamen gekennzeichneten Prozessen
+pkill 	    Beendigung eines nach seinem Namen/durch einen regulären Ausdruck gekennzeichneten Prozesses
+ps 	        Ausgabe aller laufenden Prozesse ("process status")
+pstree 	    Ausgabe aller laufenden Prozesse in Baumform
+script 	    Terminalsitzungen mitschneiden (siehe auch scriptreplay)
+stat 	    Zeitstempel von Dateien und Ordnern anzeigen
+top 	    Ausgabe der Prozessorauslastung
+uptime 	    Angabe der Laufzeit und Auslastung des Computers
+vmstat 	    erste Analyse von Engpässe
