@@ -1,0 +1,6 @@
+1.  Im Editor eine neue Datei erstllen.
+2.  Die Datei als .cpp speichen
+3.  Das Programm programmieren
+4.  Einen Terminal öffnen (über ALT + STRG + T | über die Suche)
+5.  In das Verzeichnis der .cpp Datei navigieren 
+6.  Die .cpp mithilfe von g++ kompilieren (g++ -o test test.cpp)
